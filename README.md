@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://joelkrause.github.io/header.png" align="center" style="width: 100%" />
+<img src="./header.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -108,11 +108,4 @@
 <a href="https://codepen.com/joelkrause" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joelkrause&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</div>
